@@ -1,0 +1,24 @@
+{
+  "name": "sendmail",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zero060699/sendmail.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zero060699/sendmail/issues"
+  },
+  "homepage": "https://github.com/zero060699/sendmail#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemailer": "^6.9.6",
+    "nodemon": "^3.0.1"
+  }
+}
